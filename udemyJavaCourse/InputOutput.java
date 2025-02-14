@@ -17,7 +17,6 @@ public class InputOutput {
 
 //formatted output string using format specifier
         System.out.printf("This is the value of x=%d, PI %f \n", x, 22f / 7);
-
         Scanner scanner = new Scanner(System.in); //scanner class object to read from input devices
         System.out.print("Enter data using keyboard: ");
 
