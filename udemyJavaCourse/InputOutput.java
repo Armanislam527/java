@@ -1,4 +1,5 @@
 
+package InputOutput;
 import java.util.Scanner; //import package to use scanner for reading data
 
 public class InputOutput {
