@@ -1,4 +1,4 @@
-package classobject;
+//package classobject;
 
 class Student {
 
@@ -55,6 +55,15 @@ public class classObject {
 
     public static void main(String[] args) {
         Student s1 = new Student();
-
+        Student s2 = new Student();
+        s1.setname("Arman Islam");
+        s1.setrollno(1);
+        s1.setid(1);
+        s1.setmajor("CSE");
+        s1.setcourse("Java");
+        s1.setmarks(30, 50, 40);
+        s1.display();
+        System.out.println("Total Marks: " + s1.total());
+        System.out.println("Average Marks: " + s1.average());
     }
 }
