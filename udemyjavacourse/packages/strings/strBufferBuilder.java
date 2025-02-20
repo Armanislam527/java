@@ -1,4 +1,4 @@
-//package strings;
+//package java.udemyjavacourse.packages.strings;
 
 public class strBufferBuilder {
 
