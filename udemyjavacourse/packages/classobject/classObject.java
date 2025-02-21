@@ -57,14 +57,24 @@ public class classObject {
         Student s1 = new Student();
         Student s2 = new Student();
         s1.setname("Arman Islam");
+        s2.setname("Khadiza Akter");
         s1.setrollno(1);
+        s2.setrollno(2);
         s1.setid(1);
+        s2.setid(2);
         s1.setmajor("CSE");
+        s2.setmajor("Nursing");
         s1.setcourse("Java");
+        s2.setcourse("Fundamental of Nursing");
+
         s1.setmarks(30, 50, 40);
+        s2.setmarks(40, 60, 50);
         s1.display();
+        s2.display();
+        System.out.println("Course: " + s1.course);
+
         System.out.println("Total Marks: " + s1.total());
         System.out.println("Average Marks: " + s1.average());
-        s2.
+
     }
 }
