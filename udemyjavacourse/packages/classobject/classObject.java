@@ -65,5 +65,6 @@ public class classObject {
         s1.display();
         System.out.println("Total Marks: " + s1.total());
         System.out.println("Average Marks: " + s1.average());
+        s2.
     }
 }
