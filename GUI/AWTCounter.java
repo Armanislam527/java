@@ -20,8 +20,7 @@ public class AWTCounter extends Frame {
       tfCount = new TextField(count + "", 10); // construct the TextField component with initial text
       tfCount.setEditable(true);       // set to read-only
       add(tfCount);                     // "super" Frame container adds TextField component
-
-
+      count = Integer.parseInt(tfCount.getText()); //, the number of   
       btnCount  = new Button("Count");   // construct the Button component
       add(btnCount);                    // "super" Frame container adds Button component
 
