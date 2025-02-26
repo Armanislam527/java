@@ -15,11 +15,15 @@ class Myclass {
 
     public void setdata(int a, int b) {
     }
+    public void print(){
+    System.out.println(this.a+" "+this.b);
+    }
+}
 
     class keywordThis {
 
         public static void main(String[] args) {
-            A obj = new A();
+            Myclass obj = new Myclass();
             obj.print();
         }
     }
