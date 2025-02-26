@@ -27,5 +27,6 @@ public class InterfaceDemo {
         // Calling the start() method on both objects
         myCar.start();  // Output: Car is starting with a key...
         myBike.start(); // Output: Bike is starting with a self-start button...
+        // Note: The actual implementation of the start() method is in the Car and Bike classes
     }
 }
