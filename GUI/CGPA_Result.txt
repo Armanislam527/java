@@ -1,0 +1,7 @@
+Semester 1 GPA: 3.00
+Semester 2 GPA: 4.00
+Total Marks: 506.0
+CGPA: 3.41
+
+Author: Arman, Dept of ICE, PUST
+Roll: 230623, Reg: 1065512, Session: 2022-23

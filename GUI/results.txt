@@ -1,0 +1,32 @@
+Student Name: 34rwwr
+Roll Number: w34
+Semester 1 SGPA: NaN
+
+Overall CGPA: NaN
+----------------------------------
+Student Name: 34rwwr
+Roll Number: w34
+Semester 1 SGPA: 2.50
+
+Overall CGPA: 2.50
+----------------------------------
+Student Name: fsfsvxcbn
+Roll Number: w34
+Semester 1 SGPA: 2.50
+Semester 2 SGPA: 4.00
+
+Overall CGPA: 3.75
+----------------------------------
+Student Name: efjoid
+Roll Number: 593
+Semester 1 SGPA: 4.00
+Semester 2 SGPA: 4.00
+
+Overall CGPA: 4.00
+----------------------------------
+Student Name: ad
+Roll Number: 345
+Semester 1 SGPA: 3.50
+
+Overall CGPA: 3.50
+----------------------------------
